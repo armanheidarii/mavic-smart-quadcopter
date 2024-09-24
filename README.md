@@ -1,1 +1,1 @@
-# mavic-smart-quadcopter
+# webots-smart-mavic-quadcopter
